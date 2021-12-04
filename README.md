@@ -12,8 +12,6 @@ To help businesses to make their decisions towards accessibility, it would be ni
 
 ## Facts
 
-### Screen Readers
-
 * More than 53% of screen reader users use Google Chrome
   * https://webaim.org/projects/screenreadersurvey9/#browsers_div
 * 32.5% of screen reader users use JAWS with Google Chrome
@@ -44,6 +42,10 @@ To help businesses to make their decisions towards accessibility, it would be ni
   * https://webaim.org/projects/screenreadersurvey9/#mail_div
 * 46.3% of screen reader users use Apple Mail on iOS as email client
   * https://webaim.org/projects/screenreadersurvey9/#mail_div
+* Low contrast text is the most common accessility issue, it appears on 86.4% of home pages
+  * https://webaim.org/projects/million/#wcag_div
+* 96.7% of all accessibility errors will disappear after fixing following issues - low contrast text, missing alternative text for images, missing form input labels, empty links, missing document language, Empty buttons
+  * https://webaim.org/projects/million/#wcag
 
 ## Resources
 
