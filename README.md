@@ -1,4 +1,18 @@
+> Work in progress.
+
 # Accessibility Facts
+
+To help businesses to make their decisions towards accessibility, it would be nice to have a place where different facts about accessibility are collected. For better readability all facts should be supported by illustrations. References to all facts should be provided.
+
+## Ideas
+
+* Facts can be filtered by categories (disability type, geo location, social group, etc.)
+* Fact cards are collected on a landing page, but there are separate pages for each fact (with references and supporting info)
+* Facts can be published as text, illustrations can be added later
+
+## Facts
+
+TBD
 
 ## Resources
 
