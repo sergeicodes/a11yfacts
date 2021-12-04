@@ -12,7 +12,38 @@ To help businesses to make their decisions towards accessibility, it would be ni
 
 ## Facts
 
-TBD
+### Screen Readers
+
+* More than 53% of screen reader users use Google Chrome
+  * https://webaim.org/projects/screenreadersurvey9/#browsers_div
+* 32.5% of screen reader users use JAWS with Google Chrome
+  * https://webaim.org/projects/screenreadersurvey9/#browsercombos
+* 91.1% of screen reader users use Windows OS
+  * https://webaim.org/projects/screenreadersurvey9/#os_div
+* Less than 2% of screen reader users use Linux OS
+  * https://webaim.org/projects/screenreadersurvey9/#os_div
+* 72% of screen reader users use Apple devices as a primary mobile devices
+  * https://webaim.org/projects/screenreadersurvey9/#mobileplatforms_div
+* 25.8% of screen reader users use Android devices as a primary mobile devices
+  * https://webaim.org/projects/screenreadersurvey9/#mobileplatforms_div
+* Safari is the most popular browser among screen reader users on mobile, it takes 61.5%
+  * https://webaim.org/projects/screenreadersurvey9/#mobilebrowser_div
+* More than 30% of screen reader users often use skip links
+  * https://webaim.org/projects/screenreadersurvey9/#skip
+* More than 25% of screen reader users often use landmarks/regions
+  * https://webaim.org/projects/screenreadersurvey9/#landmarks
+* 67.7% of screen reader users using headlines for navigating
+  * https://webaim.org/projects/screenreadersurvey9/#finding
+* More than 85% of screen reader users find proper heading structures very useful
+  * https://webaim.org/projects/screenreadersurvey9/#heading_div
+* 68.9% of screen reader users find Word the most accessible document format
+  * https://webaim.org/projects/screenreadersurvey9/#docaccessibility_div
+* 60.6% of screen reader users prefer Word document format to PDF, EPUB or other
+  * https://webaim.org/projects/screenreadersurvey9/#docpreference_div
+* 59.0% of screen reader users use Outlook or Outlook.com as email client
+  * https://webaim.org/projects/screenreadersurvey9/#mail_div
+* 46.3% of screen reader users use Apple Mail on iOS as email client
+  * https://webaim.org/projects/screenreadersurvey9/#mail_div
 
 ## Resources
 
