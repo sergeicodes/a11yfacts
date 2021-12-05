@@ -55,16 +55,22 @@ Nice examples presenting data by illustrations:
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/10166916/144743685-a464783a-06dc-4ac6-9f2c-e7c1d0d4dd11.png">
 
-[Source](https://medium.com/@user_design/information-on-different-types-of-people-for-graphic-communication-website-and-information-4b6454905bb1)
+https://medium.com/@user_design/information-on-different-types-of-people-for-graphic-communication-website-and-information-4b6454905bb1
+
+---
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/10166916/144743852-3817109f-76c4-425a-9ec6-4abe30d399e8.png">
 
-[Source](https://bighack.org/accessibility-and-disability-facts-and-figures/)
+https://bighack.org/accessibility-and-disability-facts-and-figures/
+
+---
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/10166916/144743922-440def72-3708-4053-acba-8b8195a981de.png">
 
-[Source](https://www.healio.com/news/primary-care/20211118/qa-67-million-us-adults-report-having-at-least-one-disability)
+https://www.healio.com/news/primary-care/20211118/qa-67-million-us-adults-report-having-at-least-one-disability
+
+---
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/10166916/144744605-1a2e7304-5bf2-47c8-ba10-bc324cd6c49e.png">
 
-[Source](https://pages.diamond.la/hubfs/SOAR%20/Diamond%202nd%20Annual%20SOAR%20Report%202020.pdf)
+https://pages.diamond.la/hubfs/SOAR%20/Diamond%202nd%20Annual%20SOAR%20Report%202020.pdf
