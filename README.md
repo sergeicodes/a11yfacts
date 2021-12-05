@@ -53,11 +53,6 @@ To help businesses to **make their decisions** towards accessibility, it would b
 
 Nice examples presenting data as infographics:
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/10166916/144743685-a464783a-06dc-4ac6-9f2c-e7c1d0d4dd11.png">
-
-https://medium.com/@user_design/information-on-different-types-of-people-for-graphic-communication-website-and-information-4b6454905bb1
-
----
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/10166916/144743852-3817109f-76c4-425a-9ec6-4abe30d399e8.png">
 
@@ -80,3 +75,9 @@ https://pages.diamond.la/hubfs/SOAR%20/Diamond%202nd%20Annual%20SOAR%20Report%20
 <img width="348" alt="image" src="https://user-images.githubusercontent.com/10166916/144744784-6c282d2d-33c8-43db-b7bd-302e5db8b5df.png">
 
 https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
+
+---
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/10166916/144743685-a464783a-06dc-4ac6-9f2c-e7c1d0d4dd11.png">
+
+https://medium.com/@user_design/information-on-different-types-of-people-for-graphic-communication-website-and-information-4b6454905bb1
