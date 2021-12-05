@@ -6,9 +6,8 @@ To help businesses to **make their decisions** towards accessibility, it would b
 
 ## Ideas
 
-* Facts can be filtered by categories (disability type, geo location, social group, etc.)
-* Fact cards are collected on a landing page, but there are separate pages for each fact (with references and supporting info)
-* Facts can be published first as text, illustrations can be added later
+* Facts can be filtered by **categories or/and tags** (disability type, geo location, social group, etc.)
+* Fact cards are collected on a landing page, but there are **separate pages** for each fact (with references and supporting info)
 
 ## Facts
 
