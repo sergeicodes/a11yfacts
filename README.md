@@ -1,6 +1,6 @@
 # Accessibility Facts
 
-To help businesses to **make their decisions** towards accessibility, it would be nice to have a place where **different facts about accessibility are collected**. For better readability all facts should be supported by **illustrations** (see some good examples below). **References** to all facts should be provided.
+To help businesses to **make their decisions** towards accessibility, it would be nice to have a place where **different facts about accessibility are collected**. For better readability all facts should be supported by **infographics** (see some good examples below). **References** to all facts should be provided.
 
 ## Ideas
 
@@ -51,7 +51,7 @@ To help businesses to **make their decisions** towards accessibility, it would b
 
 ## Inspired By
 
-Nice examples presenting data by illustrations:
+Nice examples presenting data as infographics:
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/10166916/144743685-a464783a-06dc-4ac6-9f2c-e7c1d0d4dd11.png">
 
@@ -71,6 +71,12 @@ https://www.healio.com/news/primary-care/20211118/qa-67-million-us-adults-report
 
 ---
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/10166916/144744605-1a2e7304-5bf2-47c8-ba10-bc324cd6c49e.png">
+<img width="361" alt="image" src="https://user-images.githubusercontent.com/10166916/144744605-1a2e7304-5bf2-47c8-ba10-bc324cd6c49e.png">
 
 https://pages.diamond.la/hubfs/SOAR%20/Diamond%202nd%20Annual%20SOAR%20Report%202020.pdf
+
+---
+
+<img width="348" alt="image" src="https://user-images.githubusercontent.com/10166916/144744784-6c282d2d-33c8-43db-b7bd-302e5db8b5df.png">
+
+https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
