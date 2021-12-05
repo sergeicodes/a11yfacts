@@ -2,13 +2,13 @@
 
 # Accessibility Facts
 
-To help businesses to make their decisions towards accessibility, it would be nice to have a place where different facts about accessibility are collected. For better readability all facts should be supported by illustrations. References to all facts should be provided.
+To help businesses to **make their decisions** towards accessibility, it would be nice to have a place where **different facts about accessibility are collected**. For better readability all facts should be supported by **illustrations**. **References** to all facts should be provided.
 
 ## Ideas
 
 * Facts can be filtered by categories (disability type, geo location, social group, etc.)
 * Fact cards are collected on a landing page, but there are separate pages for each fact (with references and supporting info)
-* Facts can be published as text, illustrations can be added later
+* Facts can be published first as text, illustrations can be added later
 
 ## Facts
 
@@ -29,6 +29,12 @@ To help businesses to make their decisions towards accessibility, it would be ni
 * [46.3% of screen reader users use Apple Mail on iOS as email client](https://webaim.org/projects/screenreadersurvey9/#mail_div)
 * [Low contrast text is the most common accessility issue, it appears on 86.4% of home pages](https://webaim.org/projects/million/#wcag_div)
 * [96.7% of all accessibility errors will disappear after fixing following issues - low contrast text, missing alternative text for images, missing form input labels, empty links, missing document language, Empty buttons](https://webaim.org/projects/million/#wcag)
+* [Over one third of the images on the web to have missing, questionable, or repetitive alternative text](https://webaim.org/projects/million/#wcag)
+* [45% of form inputs are not properly labeled](https://webaim.org/projects/million/#labels)
+* [18.4% of home pages have more than one h1](https://webaim.org/projects/million/#headings)
+* [Main landmark is present only on 30.1% of home pages](https://webaim.org/projects/million/#regions)
+
+> More facts to be added.
 
 ## Resources
 
@@ -44,3 +50,20 @@ To help businesses to make their decisions towards accessibility, it would be ni
 * https://www.unicef.org/press-releases/fact-sheet-worlds-nearly-240-million-children-living-disabilities-are-being-denied
 * https://www.unicef.org/press-releases/75-cent-children-disabilities-eastern-and-central-europe-and-central-asia-left-out
 * https://www.disabled-world.com/disability/statistics/
+* https://diamond.la/soar/
+
+## Inspired By
+
+Nice examples presenting data by illustrations:
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/10166916/144743685-a464783a-06dc-4ac6-9f2c-e7c1d0d4dd11.png">
+
+[Source](https://medium.com/@user_design/information-on-different-types-of-people-for-graphic-communication-website-and-information-4b6454905bb1)
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/10166916/144743852-3817109f-76c4-425a-9ec6-4abe30d399e8.png">
+
+[Source](https://bighack.org/accessibility-and-disability-facts-and-figures/)
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/10166916/144743922-440def72-3708-4053-acba-8b8195a981de.png">
+
+[Source](https://www.healio.com/news/primary-care/20211118/qa-67-million-us-adults-report-having-at-least-one-disability)
