@@ -1,5 +1,3 @@
-> Work in progress.
-
 # Accessibility Facts
 
 To help businesses to **make their decisions** towards accessibility, it would be nice to have a place where **different facts about accessibility are collected**. For better readability all facts should be supported by **illustrations** (see some good examples bellow). **References** to all facts should be provided.
