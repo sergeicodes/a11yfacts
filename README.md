@@ -6,6 +6,7 @@ To help businesses to **make their decisions** towards accessibility, it would b
 
 * Facts can be filtered by **categories or/and tags** (disability type, geo location, social group, etc.)
 * Fact cards are collected on a landing page, but there are **separate pages** for each fact (with references and supporting info)
+* Facts should be **shareable** and beautifully **presented** in social platforms once shared, so people could easily memorize them and wanted to show them to their colleagues 
 
 ## Facts
 
