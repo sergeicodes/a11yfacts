@@ -10,7 +10,6 @@ To help businesses to **make their decisions** towards accessibility, it would b
 
 ## Facts
 
-* [More than 53% of screen reader users use Google Chrome](https://webaim.org/projects/screenreadersurvey9/#browsers_div)
 * [32.5% of screen reader users use JAWS with Google Chrome](https://webaim.org/projects/screenreadersurvey9/#browsercombos)
 * [91.1% of screen reader users use Windows OS](https://webaim.org/projects/screenreadersurvey9/#os_div)
 * [Less than 2% of screen reader users use Linux OS](https://webaim.org/projects/screenreadersurvey9/#os_div)
@@ -25,8 +24,6 @@ To help businesses to **make their decisions** towards accessibility, it would b
 * [60.6% of screen reader users prefer Word document format to PDF, EPUB or other](https://webaim.org/projects/screenreadersurvey9/#docpreference_div)
 * [59.0% of screen reader users use Outlook or Outlook.com as email client](https://webaim.org/projects/screenreadersurvey9/#mail_div)
 * [46.3% of screen reader users use Apple Mail on iOS as email client](https://webaim.org/projects/screenreadersurvey9/#mail_div)
-* [Over one third of the images on the web to have missing, questionable, or repetitive alternative text](https://webaim.org/projects/million/#wcag)
-* [45% of form inputs are not properly labeled](https://webaim.org/projects/million/#labels)
 * [18.4% of home pages have more than one h1](https://webaim.org/projects/million/#headings)
 * [Main landmark is present only on 30.1% of home pages](https://webaim.org/projects/million/#regions)
 
