@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: #fbfbfb;
+  text-align: center;
+}
+
+header {
+  margin: 3rem 0 5rem;
+}
+
+.content {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.fact-list {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+}
+
+.fact {
+  margin-bottom: 5rem;
+}
+
+.fact__text {
+  font-size: 1.2rem;
+}
+
+.fact__references {
+  list-style: none;
+  padding: 0;
+}
+
+.fact__reference {
+  position: relative;
+  padding-left: 1.5rem;
+}
+
+.fact__reference::before {
+  content: '—';
+  position: absolute;
+  left: 0;
+}
+
+.info {
+  margin-top: 5rem;
+  font-style: italic;
+  text-align: center;
+}
+
+footer {
+  font-size: 0.8rem;
+  text-align: center;
+  margin: 5rem 0 3rem;
+}
