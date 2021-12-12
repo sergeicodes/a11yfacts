@@ -24,6 +24,7 @@ The idea of this project is to help businesses to **make their decisions** towar
 - https://www.unicef.org/press-releases/75-cent-children-disabilities-eastern-and-central-europe-and-central-asia-left-out
 - https://www.disabled-world.com/disability/statistics/
 - https://diamond.la/soar/
+- https://www.who.int/publications/i/item/world-report-on-hearing
 
 ## Inspired By
 
