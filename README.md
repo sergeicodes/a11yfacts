@@ -26,7 +26,7 @@ To help businesses to **make their decisions** towards accessibility, it would b
 * [59.0% of screen reader users use Outlook or Outlook.com as email client](https://webaim.org/projects/screenreadersurvey9/#mail_div)
 * [46.3% of screen reader users use Apple Mail on iOS as email client](https://webaim.org/projects/screenreadersurvey9/#mail_div)
 * [Low contrast text is the most common accessility issue, it appears on 86.4% of home pages](https://webaim.org/projects/million/#wcag_div)
-* [96.7% of all accessibility errors will disappear after fixing following issues - low contrast text, missing alternative text for images, missing form input labels, empty links, missing document language, Empty buttons](https://webaim.org/projects/million/#wcag)
+* [96.7% of all errors detected fall into these six categories - low contrast text, missing alternative text for images, missing form input labels, empty links, missing document language, empty buttons. Addressing just these few types of issues would significantly improve accessibility across the web.](https://webaim.org/projects/million/#wcag)
 * [Over one third of the images on the web to have missing, questionable, or repetitive alternative text](https://webaim.org/projects/million/#wcag)
 * [45% of form inputs are not properly labeled](https://webaim.org/projects/million/#labels)
 * [18.4% of home pages have more than one h1](https://webaim.org/projects/million/#headings)
