@@ -13,7 +13,7 @@ To help businesses to **make their decisions** towards accessibility, it would b
 ## Contributing
 
 - Do you know a fact which is not listed yet? Make an [issue](https://github.com/sergeicodes/a11yfacts/issues/new).
-- Are you a designer who wants to convert facts from plain text into beautiful infographic? Please [contact me](https://twitter.com/_sergeikriger).
+- Are you a designer who'd like to convert facts from plain text into beautiful infographic? Please [contact me](https://twitter.com/_sergeikriger).
 
 ## Data Resources
 
