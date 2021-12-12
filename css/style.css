@@ -61,3 +61,10 @@ footer {
   text-align: center;
   margin: 5rem 0 3rem;
 }
+
+.message {
+  padding: 1rem 1.5rem;
+  color: #004085;
+  background-color: #cce5ff;
+  border-color: #b8daff;
+}
