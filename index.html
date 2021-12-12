@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Accessibility Facts</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body,
+      html {
+        height: 100%;
+      }
+
+      body {
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        font-family: "Poppins", sans-serif;
+        text-align: center;
+        background: #fbfbfb;
+      }
+
+      p {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 1rem;
+      }
+
+      p:first-child {
+        font-size: 1.3rem;
+      }
+
+      p:not(:first-child) {
+        font-weight: 300;
+      }
+
+      p:last-child {
+        font-style: italic;
+      }
+    </style>
+  </head>
+  <body>
+    <p>
+      15% of the world's population, or estimated 1 billion people, live with
+      disabilities. They are the world's largest minority.
+    </p>
+
+    <p>— <a href="https://www.who.int/en/news-room/fact-sheets/detail/disability-and-health">World Health Organization</a></p>
+
+    <p>More facts to come, stay tuned.</p>
+  </body>
+</html>
