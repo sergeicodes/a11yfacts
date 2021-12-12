@@ -7,7 +7,7 @@ The idea of this project is to help businesses to **make their decisions** towar
 ## Contributing
 
 - Do you know a fact which is not listed yet? Make an [issue](https://github.com/sergeicodes/a11yfacts/issues/new).
-- Are you a designer who'd like to convert facts from plain text into beautiful infographic? Please [contact me](https://twitter.com/_sergeikriger).
+- Are you a designer who can convert these facts from plain text into beautiful infographic? Please [contact me](https://twitter.com/_sergeikriger).
 
 ## Data Resources
 
