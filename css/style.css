@@ -17,6 +17,11 @@ h1 {
   font-weight: normal;
 }
 
+.description {
+  margin: 0 auto;
+  max-width: 320px;
+}
+
 .content {
   max-width: 600px;
   margin: 0 auto;
