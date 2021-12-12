@@ -31,24 +31,17 @@ h1 {
 
 .fact {
   margin-bottom: 5rem;
-}
-
-.fact__text {
   font-size: 1.2rem;
-}
-
-.fact__references {
-  list-style: none;
-  padding: 0;
 }
 
 .fact__reference {
   position: relative;
   padding-left: 1.5rem;
+  font-size: 1rem;
 }
 
 .fact__reference::before {
-  content: '—';
+  content: "—";
   position: absolute;
   left: 0;
 }
